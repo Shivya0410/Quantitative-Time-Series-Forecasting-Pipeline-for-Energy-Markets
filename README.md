@@ -51,7 +51,7 @@ This project relies on data from the following sources:
 - Various academic journals and financial databases
 
 ## Competition Overview
-This project was developed as part of the **Datathon 2025**, organized by Citadel and Correlation One. The competition challenged participants to derive meaningful insights from complex financial and economic datasets, focusing on real-world applications in the energy sector.
+This project was developed after the **Datathon 2025**, organized by Citadel and Correlation One. The competition challenged participants to derive meaningful insights from complex financial and economic datasets, focusing on real-world applications in the energy sector.
 
 The goal was to explore the predictive power of gasoline prices for energy sector stock movements, leveraging statistical analysis, machine learning, and economic theory. This repository reflects our team's comprehensive approach to understanding these market dynamics, from initial data preprocessing to advanced predictive modeling.
 
