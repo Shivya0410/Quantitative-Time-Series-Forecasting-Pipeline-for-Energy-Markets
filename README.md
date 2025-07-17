@@ -1,5 +1,5 @@
 # Citadel-Datathon-submission
-Team submission Codes and Report for Citadel and Correlation One's Datathon 2025
+This project was made on the problem statement and datasets of Citadel Women's Hackathon 2025
 
 # Gasoline Price Impact Analysis
 
