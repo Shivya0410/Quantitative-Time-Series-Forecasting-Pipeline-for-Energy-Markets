@@ -1,4 +1,4 @@
-# Citadel-Datathon-submission
+# Citadel-Datathon-Project
 This project was made on the problem statement and datasets of Citadel Women's Hackathon 2025 in collaboration with Sneha Roychowdhury.
 
 # Gasoline Price Impact Analysis
